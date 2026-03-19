@@ -1,56 +1,92 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello, I'm Armando Varela 👋</b></h1>
+<h1 align="center">Armando Varela</h1>
+<h3 align="center">Software Developer | Full Stack | Web, APIs, Databases & Infrastructure</h3>
+
+<p align="center">
+  Building practical software solutions with clean architecture, scalable backends and modern interfaces.
 </p>
 
 <p align="center">
-  <br>
   <a href="https://www.linkedin.com/in/armandovarela/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:armamdo1080@gmail.com?subject=Hola%20Armando">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Armando%20Varela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:armamdo1080@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### I am a Software Developer
-
-- 💻 Full Stack developer (C# ASP.NET, Laravel, React, SQL, etc.)
-- 🔭 I’m currently working on my portfolio and several web apps.
-- 👯 I’m looking to collaborate with other developers and creators.
-- 💬 Ask me about web development, APIs, databases or DevOps basics.
-- ⚡ Fun fact: I love mixing software, infrastructure (NAS, UPS, networks) and a bit of game dev.
 
 ---
 
-### Languages and Tools: 
+## About me
 
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
-<img align="left" alt=".NET" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+I'm a software developer focused on building useful digital products with solid backend logic, clean UI and reliable database design.
 
-<br>
-<br>
-<br>
-<br>
+I enjoy working across the full stack, from APIs and dashboards to infrastructure-related tasks. I like creating systems that solve real operational problems for businesses.
 
-### :zap: GitHub Stats
+- Full Stack Development with **C#, ASP.NET, Laravel, React and SQL**
+- Experience building **web apps, APIs, admin panels and business systems**
+- Interested in **software architecture, DevOps basics, databases and scalable systems**
+- Currently improving my **portfolio**, real-world projects and professional growth
+- Open to **collaboration, freelance projects and developer opportunities**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheBocher1227&show_icons=true&theme=dark" alt="Tus estadísticas de GitHub" width="60%">
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBocher1227&layout=compact&theme=dark)
+## Tech Stack
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-111827?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## What I build
+
+- Business management systems
+- Administrative dashboards
+- REST APIs and backend services
+- Database-driven applications
+- Internal tools that improve operations and control
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBocher1227&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBocher1227&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+---
+
+## Currently focused on
+
+- Building stronger production-ready projects
+- Improving software architecture and code quality
+- Expanding my portfolio with real business solutions
+- Exploring better practices in deployment, databases and system design
+
+---
+
+## Let's connect
+
+If you're interested in collaborating, discussing a project, or talking about a software opportunity, feel free to reach out.
+
+- LinkedIn: [armandovarela](https://www.linkedin.com/in/armandovarela/)
+- Email: **armamdo1080@gmail.com**
